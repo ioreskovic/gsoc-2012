@@ -1,0 +1,15 @@
+target
+libs
+lib_managed
+src_managed
+project/boot
+project/project/
+project/target/
+project/plugins/project
+gen
+.idea
+*.iml
+*.swp
+tmp
+tags
+keys_market.xml

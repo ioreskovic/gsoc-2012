@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">GSoC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Android Scala Benchmark</string>
+    <string name="title_activity_results">Benchmark Results</string>
+
+</resources>
